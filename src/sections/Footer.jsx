@@ -6,7 +6,7 @@ const Footer = () => {
     <footer className="footer">
       <div className="footer-container">
         <div className="flex flex-col justify-center md:items-start items-center">
-          <a href="/">Visit my blog</a>
+          <a href="/">Chibuzor Ezeufoh</a>
         </div>
 
         <div className="socials">
@@ -19,7 +19,7 @@ const Footer = () => {
 
         <div className="flex flex-col justify-center">
           <p className="text-center md:text-end">
-            ©️ {new Date().getFullYear()} Johnnybravo. All rights reserved
+            ©️ {new Date().getFullYear()} Chibuzor Ezeufoh. All rights reserved
           </p>
         </div>
       </div>
