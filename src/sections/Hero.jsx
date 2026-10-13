@@ -20,7 +20,7 @@ const Hero = () => {
         stagger: 0.2,
         duration: 1,
         ease: "power2.inOut",
-      }
+      },
     );
   });
 
